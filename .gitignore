@@ -14,6 +14,7 @@
 /*.so.*
 /*.exe
 /*.json
+data/*
 *.ingp
 *.msgpack
 *.training
